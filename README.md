@@ -1,3 +1,5 @@
+This is a modified version of the Deepov engine. Our goal is to check how good can MCTS perform. Below you can find the original description.
+
 # Deepov
 
 C++ Chess Engine, UCI compliant
